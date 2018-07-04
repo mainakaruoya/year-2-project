@@ -67,6 +67,7 @@ def cameraCapture():
     global i
     i += 1
     camera.capture('/home/pi/Desktop/image_%s.jpg' % i)
+    camera.stop_preview()
     #LED blinks to indicate capture successful
     print("Camera capture successful.")
     #lightBlinks()
