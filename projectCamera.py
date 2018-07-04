@@ -1,7 +1,6 @@
 from tkinter import *
 from datetime import datetime as dt
 """import serial
-from signal import pause
 from gpiozero import LED
 from picamera import PiCamera
 from time import sleep"""
