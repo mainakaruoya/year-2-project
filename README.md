@@ -1,3 +1,3 @@
-# year-2-project
+# 2nd Year Project
 School project.
-Kind of here for backup purposes, but I guess someone will probably get this in the future - and heavily edit this.
+Here for backup purposes.
